@@ -1,7 +1,7 @@
 general:
 steps:
   gctsDeploy:
-    host: "http://tst.opensap.consarea.com:50000"
+    host: "https://tst.opensap.consarea.com:44300"
     client: "100"
     abapCredentialsId: "SARAT_CREDENTIALS"
     repository: "sarat-krk-sarat_workbench"
