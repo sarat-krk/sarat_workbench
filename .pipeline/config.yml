@@ -1,0 +1,13 @@
+general:
+steps:
+  gctsDeploy:
+    host: "http://tst.opensap.consarea.com:50000"
+    client: "000"
+    abapCredentialsId: "SARAT_CREDENTIALS"
+    repository: "sarat_workbench"
+    remoteRepositoryURL: "https://github.com/sarat-krk/sarat_workbench"
+    role: "SOURCE"
+    vSID: "SWB"
+    verbose: true
+    type: "GIT"
+    rollback: false
