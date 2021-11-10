@@ -15,7 +15,7 @@ pipeline{
 		stage('Deploy') {
 			when { anyOf { branch 'main' } }
 			steps {
-			    echo "Deplying...."
+			    echo "Deploying...."
 			}
 		}
 	}	
