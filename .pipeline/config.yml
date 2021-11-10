@@ -4,7 +4,7 @@ steps:
     host: "http://tst.opensap.consarea.com:50000"
     client: "100"
     abapCredentialsId: "SARAT_CREDENTIALS"
-    repository: "sarat_workbench"
+    repository: "sarat-krk-sarat_workbench"
     remoteRepositoryURL: "https://github.com/sarat-krk/sarat_workbench"
     role: "SOURCE"
     vSID: "SWB"
