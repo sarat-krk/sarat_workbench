@@ -4,3 +4,5 @@ class ZCL_CLASS_WORKBENCH_SARAT definition
   create public .
 
 public section.
+
+  methods TEST_METHOD .
